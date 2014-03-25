@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Exercises
+namespace add_in
 {
     [ComVisible(true)]
     public class MyAddinClass
