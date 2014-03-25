@@ -10,7 +10,7 @@ using System.Windows.Forms;
 namespace Exercises
 {
     [ComVisible(true)]
-    public class Class1
+    public class MyAddinClass
     {
         private bool IS_TO_PAINT = false;
 
